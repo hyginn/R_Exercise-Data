@@ -3,13 +3,13 @@
 .Rapp.history
 
 # Session Data files
-.RData
+#.RData
 
 # Example code in package build process
 *-Ex.R
 
 # RStudio files
-.Rproj.user/
+#.Rproj.user/
 
 # produced vignettes
 vignettes/*.html
