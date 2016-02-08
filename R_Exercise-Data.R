@@ -3,7 +3,7 @@
 # Practising importing and writing data.
 #
 # Boris Steipe (boris.steipe@utoronto.ca)
-# Jan 2016
+# Feb 2016
 # (C) copyrighted material. Do not share without permission.
 # ====================================================================
 
