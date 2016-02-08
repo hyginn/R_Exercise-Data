@@ -1,6 +1,6 @@
-# R_exercise-subsetting.R
+# R_exercise-Data.R
 #
-# Practising filtering of data via R's subsetting methods
+# Practising importing and writing data.
 #
 # Boris Steipe (boris.steipe@utoronto.ca)
 # Jan 2016
